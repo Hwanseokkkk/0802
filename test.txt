@@ -1,0 +1,10 @@
+C:\Users\User>cd C:/Javaroom
+
+C:\JavaRoom>cd 0802
+
+C:\JavaRoom\0802>notepad test.txt
+
+C:\JavaRoom\0802>
+
+이 메모장은 커맨더창으로 이름을 만들고 저장하였다.
+>>이것을 파라미터라고 한다.
