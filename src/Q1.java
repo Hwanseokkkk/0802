@@ -11,7 +11,7 @@ public class Q1 {
 				int [][] original;
 				original = new int[1][];
 				original[0] = new int[] {1,2,3,4,1,2,3,4,1,2};
-				for(int =)
+			//	for(int =)
 	}
 
 }
